@@ -1,3 +1,3 @@
 package game
 
-type Player byte
+type Player int
